@@ -1,12 +1,18 @@
 .exchange_box{
   .card{
     border: 0;
-    
+
+    #div-logo {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+
     .card-header{
-      background-color: #878d99;
+      background-color: black;
       border-radius: 0;
       color: white;
       font-weight: 700;
+      font-size: larger;
     }
     
     .card-block{
